@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>佳竺我錯了我對你非常的抱歉</title>
+  <title>寶貝讀書加油!</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -43,7 +43,7 @@
 </head>
 <body>
   <header>
-    <h1>我已經跪下了</h1>
+    <h1>最喜歡妳了<3</h1>
   </header>
   
   <main>
@@ -52,7 +52,7 @@
   </main>
   
   <footer>
-    &copy; 我已經跪下了
+    &copy; 愛妳的咪咪
   </footer>
 </body>
 </html># cuper800.github.io
